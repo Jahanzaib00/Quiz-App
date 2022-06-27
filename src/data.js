@@ -1,0 +1,90 @@
+export const data = [
+  {
+    category: "Politics",
+    type: "multiple",
+    difficulty: "medium",
+    question: "Who was the 40th President of the USA?",
+    correct_answer: "Ronald Reagan",
+    incorrect_answers: ["Jimmy Carter", "Bill Clinton", "Richard Nixon"],
+  },
+  {
+    category: "Geography",
+    type: "multiple",
+    difficulty: "easy",
+    question:
+      "What name was historically used for the Turkish city currently known as Istanbul?",
+    correct_answer: "Constantinople",
+    incorrect_answers: [
+      "H&uuml;davendigar",
+      "S&ouml;\u011f&uuml;t",
+      "Adrianople",
+    ],
+  },
+  {
+    category: "Entertainment: Japanese Anime & Manga",
+    type: "multiple",
+    difficulty: "easy",
+    question: "What is the name of the corgi in Cowboy Bebop?",
+    correct_answer: "Einstein",
+    incorrect_answers: ["Edward", "Rocket", "Joel"],
+  },
+  {
+    category: "Entertainment: Film",
+    type: "multiple",
+    difficulty: "easy",
+    question:
+      "In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?",
+    correct_answer: "Indominus Rex",
+    incorrect_answers: ["Mosasaurus", "Pteranodon", "Tyrannosaurus Rex "],
+  },
+  {
+    category: "Entertainment: Music",
+    type: "boolean",
+    difficulty: "medium",
+    question:
+      "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+    correct_answer: "True",
+    incorrect_answers: ["False"],
+  },
+  {
+    category: "Entertainment: Film",
+    type: "multiple",
+    difficulty: "easy",
+    question:
+      "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+    correct_answer: "Replicants",
+    incorrect_answers: ["Cylons", "Synthetics", "Skinjobs"],
+  },
+  {
+    category: "Sports",
+    type: "multiple",
+    difficulty: "medium",
+    question: "Who won the &quot;Champions League&quot; in 1999?",
+    correct_answer: "Manchester United",
+    incorrect_answers: ["Barcelona", "Bayern Munich", "Liverpool"],
+  },
+  {
+    category: "General Knowledge",
+    type: "multiple",
+    difficulty: "medium",
+    question: "Earl Grey tea is black tea flavoured with what?",
+    correct_answer: "Bergamot oil",
+    incorrect_answers: ["Lavender", "Vanilla", "Honey"],
+  },
+  {
+    category: "Entertainment: Video Games",
+    type: "multiple",
+    difficulty: "hard",
+    question: "In Geometry Dash, what is level 13?",
+    correct_answer: "Electroman Adventures",
+    incorrect_answers: ["Theory of Everything", "Clubstep ", "Clutterfunk"],
+  },
+  {
+    category: "Entertainment: Music",
+    type: "multiple",
+    difficulty: "easy",
+    question: "What is the name of Rivers Cuomo&#039;s wife?",
+    correct_answer: "Kyoko Ito",
+    incorrect_answers: ["Yoko Ono", "Kyary Pamyu Pamyu", "LiSA"],
+  },
+];

@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.input-fields{
+    width: 100%;
+    text-align: center;
+    margin: 5%;
+}
+.form-select{
+    width: 400px;
+}
